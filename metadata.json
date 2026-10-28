@@ -1,0 +1,8 @@
+{
+  "name": "板金製造業智慧排程系統",
+  "description": "專為板金加工廠打造的智慧排程與派工系統，整合雷射切割套料批次、CNC折床換模最佳化、產線負載平衡與動態插單模擬。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
